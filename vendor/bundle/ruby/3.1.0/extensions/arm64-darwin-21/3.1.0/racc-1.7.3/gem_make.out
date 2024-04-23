@@ -1,0 +1,15 @@
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/watasho/.rbenv/versions/3.1.0/bin/ruby -I /Users/watasho/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20240423-50277-p03qi8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240423-50277-aymope/racc

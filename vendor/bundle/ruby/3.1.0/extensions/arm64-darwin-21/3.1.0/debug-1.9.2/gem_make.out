@@ -1,0 +1,16 @@
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/Users/watasho/.rbenv/versions/3.1.0/bin/ruby -I /Users/watasho/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20240423-50277-iwimtv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= clean
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240423-50277-bvajdk/debug

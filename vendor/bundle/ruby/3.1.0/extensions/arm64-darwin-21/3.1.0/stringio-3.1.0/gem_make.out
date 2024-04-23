@@ -1,0 +1,15 @@
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+/Users/watasho/.rbenv/versions/3.1.0/bin/ruby -I /Users/watasho/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20240423-50277-gem040.rb extconf.rb
+creating Makefile
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= clean
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/watasho/study/hot-wire-demo/cat-hotwire/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240423-50277-tf0w3h
